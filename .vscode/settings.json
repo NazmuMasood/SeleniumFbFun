@@ -1,0 +1,19 @@
+{
+    "editor.fontFamily": "JetBrains Mono", 
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.fontFamily": "JetBrains Mono", 
+
+    "workbench.colorCustomizations": {
+        "statusBar.background" : "#1A1A1A",
+        "statusBar.noFolderBackground" : "#212121",
+        "statusBar.debuggingBackground": "#263238",
+    },
+
+    "css.lint.unknownAtRules": "ignore"
+}
