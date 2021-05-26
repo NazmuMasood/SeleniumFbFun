@@ -1,1 +1,1 @@
-# SeleniumFbFun - An unique 'Facebook Story Personalizer' Automation Tool
+# SeleniumFbFun - A Unique 'Facebook Story Personalizer' Automation Tool
