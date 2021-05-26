@@ -36,8 +36,8 @@ password = driver.find_element_by_name("pass")
 loginButton = driver.find_element_by_name("login")
 
 #Preparing credentials
-## !!! mention "info.txt" file below if you're logging in using saved credentials and encrypt.py !!! 
-fpath = "info_here.txt" 
+## !!! mention "login_info.txt" file below if you're logging in using saved credentials and encrypt.py !!! 
+fpath = "login_info_here.txt" 
 if (os.path.isfile(fpath) and os.path.getsize(fpath)>0):
     file = open(fpath)
     infos = []

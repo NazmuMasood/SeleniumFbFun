@@ -37,7 +37,7 @@ password = driver.find_element_by_name("pass")
 loginButton = driver.find_element_by_name("login")
 
 #Initializing password from ciphered-hash
-fpath = "info.txt"
+fpath = "login_info.txt"
 if (os.path.isfile(fpath) and os.path.getsize(fpath)>0):
     file = open(fpath)
     infos = []
