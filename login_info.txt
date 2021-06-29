@@ -1,0 +1,8 @@
+nazmumasood96@gmail.com
+This is a key123
+3ad9090814c9c520cb96fd8f520bc95f
+unselect
+{% comment %} 'email/phoneNumber' here
+'KEY used in making of HASHED PASSWORD in encrypt.py' here
+'HASHED PASSWORD' here
+(select/unselect all friends option) here - for example write lowercase 'unselect' {% endcomment %}

@@ -1,4 +1,0 @@
-'email/phoneNumber' here
-'KEY used in making of HASHED PASSWORD in encrypt.py' here
-'HASHED PASSWORD' here
-(select/unselect all friends option) here - for example write lowercase 'unselect'
